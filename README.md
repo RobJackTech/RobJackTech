@@ -1,17 +1,13 @@
 ### Hi there 👋
 
 
-**RobJackTech/RobJackTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working doing Web Development
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently focusing on Html, CSS, JavaScript, React, Git and Github
 - 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about coding ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
+- 🤔 I’m looking for help with projects.
+- 💬 Ask me about coding websites.
+- 📫 How to reach me: email.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am tall.
 
 
